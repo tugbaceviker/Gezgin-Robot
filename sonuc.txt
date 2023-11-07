@@ -1,0 +1,4 @@
+Geçilen Kare Sayısı :
+151
+Geçen Süre :
+16.666666
